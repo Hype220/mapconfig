@@ -6,13 +6,5 @@
         "width": 2736,
         "height": 3150,
         "sectors": "false"
-    },
-    "bosnia": {
-        "name": "Bosnia.png",
-        "x": 2780,
-        "y": -9653,
-        "width": 809,
-        "height": 814,
-        "sectors": "false"
     }
 }
